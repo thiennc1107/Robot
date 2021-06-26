@@ -1,4 +1,3 @@
-//VTM https://www.youtube.com/c/VTMVlogVoThongMinh
 #define enA  11
 #define in1 A0
 #define in2 A1
